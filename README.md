@@ -1,5 +1,5 @@
 # Interessen Gruppe
-Computer und Elektronik Interessengruppe in der FeG Wiesbaden
+Computer und Elektronik Interessengruppe
 
 # Treffen
 Mittwochs 18 Uhr
