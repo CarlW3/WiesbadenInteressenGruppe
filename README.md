@@ -2,7 +2,7 @@
 Computer und Elektronik Interessengruppe
 
 # Treffen
-Mittwochs 18 Uhr
+Mittwochs 18 Uhr - Nach Anmeldung --> Wenn genug Leute Zeit haben
 
 # Inhalt
 Programmiersprache Python
